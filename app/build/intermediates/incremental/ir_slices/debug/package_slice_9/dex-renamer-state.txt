@@ -1,0 +1,4 @@
+#Thu Mar 21 12:55:35 ICT 2019
+base.0=E\:\\Sem 4\\Papb 2\\AppWidgetSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
